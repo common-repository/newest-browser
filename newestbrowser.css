@@ -1,0 +1,12 @@
+#cssNewestBrowser {
+	/* CHANGE FONT SIZE STYLING HERE */
+}
+#cssNewestBrowser img {
+	border:none;
+	padding:0px;
+	margin:0px;
+	vertical-align:middle;
+}
+#cssCWWSClear {
+	clear:both;
+}
